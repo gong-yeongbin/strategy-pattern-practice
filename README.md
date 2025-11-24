@@ -9,7 +9,7 @@
 
 ## 구조
 - Context: 전략을 사용하는 객체
-- Stratgy: 행위를 정의하는 인터페이스 or 추상클래스
+- Strategy: 행위를 정의하는 인터페이스 or 추상클래스
 - ConceteStratge: 전략을 구현하는 구체적인 클래스
 
 ## 장점
